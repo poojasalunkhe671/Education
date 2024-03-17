@@ -1,0 +1,12 @@
+.policyimg img{
+    width: 400px;
+    height: 400px;
+    float: right;
+    padding-right: 5%;
+    display: block;
+}
+.policyList{
+    display: flex;
+    align-items: center;
+    margin: 5%;
+}

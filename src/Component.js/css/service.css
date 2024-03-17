@@ -1,0 +1,21 @@
+.services{
+    width: 100%;
+    margin-top: 2% 0;
+     display: flex;
+    justify-content: space-around;  
+
+}
+h1{
+    text-align: center;
+}
+.img1 {
+    width: 280px;
+    height: 200px;
+    object-fit: contain;
+}
+.cart{
+    width: 25%;
+    text-align: center;
+    box-shadow: 0 0 3px black;
+    padding: 2%;
+}

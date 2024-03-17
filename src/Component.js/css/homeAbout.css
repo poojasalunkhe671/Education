@@ -1,0 +1,43 @@
+.main{
+      display: flex;  
+    justify-content: space-around;
+    align-items: center;
+}
+ .img img { 
+     width: 500px;
+    height: 400px;
+    display: block;
+    padding-top: 20px; 
+     
+ } 
+ .content{
+    width: 40%;
+    padding-left: 2%;
+ }
+ .content h1{
+    font-size: 50px;
+    color: rgb(201, 24, 54);
+ }
+ .content p{
+    font-size: 20px;
+    margin: 1%;
+    font-family: 'poppins',sans-serif;
+ }
+ .btnBx{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+ }
+ .btn{
+    border: 2px solid black;
+    border-radius: 9px;
+    padding: 8px;
+    margin-left: -9%;
+    }
+    .readmore{
+        text-decoration: none;
+        color:rgb(201, 24, 54) ;
+        font-weight: 600;
+        font-size: 20px;
+    }
